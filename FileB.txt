@@ -1,2 +1,3 @@
 FileB
-change made
+change made again
+Merge change made
